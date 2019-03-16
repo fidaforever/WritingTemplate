@@ -1,3 +1,2 @@
-# TechnicalWritingTemplate
-
+# Initial page
 
